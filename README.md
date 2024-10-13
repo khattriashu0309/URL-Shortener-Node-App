@@ -7,7 +7,7 @@ A simple Node.js URL shortener using HTML, CSS, Javascript, ExpressJS and MongoD
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Ashu0309/URL-Shortener-Node-App.git
+   git clone https://github.com/khattriashu0309/URL-Shortener-Node-App.git
    ```
 
 2. Install the project dependencies
