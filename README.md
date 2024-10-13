@@ -39,4 +39,4 @@ A simple Node.js URL shortener using HTML, CSS, Javascript, ExpressJS and MongoD
 To use the URL shortener API, make HTTP requests to the following endpoints:
 
 - **POST /shorten:** Shorten a long URL.
-- **GET /{urlId}:** Redirect to the original URL.
+- **GET /{urlCode}:** Redirect to the original URL.
